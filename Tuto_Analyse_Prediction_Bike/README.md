@@ -4,6 +4,6 @@
 - Comprendre les variables, 
 - Travailler avec des données manquantes, 
 - Corrélation entre les données, 
-- Graphes avec explication)
+- Graphes avec explications
 ## II - Machine Learning 
 - Algorithmes avec synthèse des résultats
