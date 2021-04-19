@@ -1,4 +1,4 @@
-# Tuto_Analyse_Prediction_Velo
+# Tuto_Analyse_Prediction_Bike
 
 ## I -  Analyse Descriptive 
 - Comprendre les variables, 
