@@ -11,4 +11,8 @@
     <li> State_holiday : encoded from <b>0</b> to <b>4</b> indicating if there was a state holiday at all (<b>0</b> if not), and otherwise, the number indicates which state holiday it was.
     <li> School_holiday : Binary variable equal to <b>0</b> if there was a school holiday that day and <b>1</b> if not.
 </ul>
-<p> For each row, we also have the sales that the shop made on that day. We need this information in order to understand what is the relationsip between the data from the shops and the sales. Our objective today is to create a machine learning algorithm that receives information about a shop at a given day, and outputs a predicted value for the sales of the shop on that day (see Figure 1) </p>
+<p> For each row, we also have the sales that the shop made on that day. We need this information in order to understand what is the relationsip between the data from the shops and the sales. Our objective today is to create a machine learning algorithm that receives information about a shop at a given day, and outputs a predicted value for the sales of the shop on that day (see Figure 1).</p>
+
+<img src="img/objective.png" alt="Oops, cant find file. Make sure you have an img directory with the images" style="width: 600px;"/>
+<figcaption style="text-align: center">
+Fig.1 - Today's objective</figcaption>
